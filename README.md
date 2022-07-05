@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zeplin-4E5EE4?style=flat-square&logo=Zotero&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <a href="https://recondite-orange-10c.notion.site/In-My-Brain-6048496dc81b453aa9aeee5ab859802a" target="_blank"><img src="https://img.shields.io/badge/Come to my Notion Blog-000000?style=Notion&logo=Notion&logoColor=white"/></a>
  </div>
 </div>
 

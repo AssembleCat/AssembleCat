@@ -24,10 +24,11 @@
  </div>
  <div>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Analytics-FF6C37?style=flat-square&logo=Google Analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeplin-4E5EE4?style=flat-square&logo=Zeroto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zeplin-4E5EE4?style=flat-square&logo=Zetero&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
  </div>
 </div>
 

@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
  </div>
  <div>
-    <a href="https://recondite-orange-10c.notion.site/In-My-Brain-6048496dc81b453aa9aeee5ab859802a" target="_blank"><img src="https://img.shields.io/badge/Come to my Notion Blog-000000?style=Notion&logo=Notion&logoColor=white"/></a>
+    <a href="https://recondite-orange-10c.notion.site/In-My-Brain-6048496dc81b453aa9aeee5ab859802a" target="_blank"><img src="https://img.shields.io/badge/Come to my Notion Blog!-000000?style=Notion&logo=Notion&logoColor=white"/></a>
  </div>
 </div>
 

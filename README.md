@@ -8,7 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/5bbff8ea-b399-473c-ba94-aadf52c3461d.svg)](https://wakatime.com/@5bbff8ea-b399-473c-ba94-aadf52c3461d)
 
  <!--Most Used Lang-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AssembleCat&langs_count=8&layout=compact&card_width=495&count_private=true&exclude_repo=Simple_RPG&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AssembleCat&langs_count=8&layout=compact&card_width=495&count_private=true&exclude_repo=Simple_RPG&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&hide=html,Cmake&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--[![Cheon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cheon&layout=compact&langs_count=8&range=all_time&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647)](https://github.com/anuraghazra/github-readme-stats)-->
  

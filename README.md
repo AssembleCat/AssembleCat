@@ -5,6 +5,7 @@
  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAssembleCat&count_bg=%232B42B2&title_bg=%23090909&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 [![wakatime](https://wakatime.com/badge/user/5bbff8ea-b399-473c-ba94-aadf52c3461d.svg)](https://wakatime.com/@5bbff8ea-b399-473c-ba94-aadf52c3461d)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frecondite-orange-10c.notion.site%2F3a99a04b7ec94ff695a87ffa616201bf&count_bg=%23B125EA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=CV&edge_flat=false"/></a>
 
 </p>
 

@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
  </div>
  <div>
-    <a href="https://recondite-orange-10c.notion.site/In-My-Brain-6048496dc81b453aa9aeee5ab859802a" target="_blank"><img src="https://img.shields.io/badge/Come to my Notion Blog!-000000?style=Notion&logo=Notion&logoColor=white"/></a>
+    <a href="https://recondite-orange-10c.notion.site/In-My-Brain-6048496dc81b453aa9aeee5ab859802a" target="_blank"><img src="https://img.shields.io/badge/Come to my Blog!-000000?style=Notion&logo=Notion&logoColor=white"/></a>
  </div>
 </div>
 

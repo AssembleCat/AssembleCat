@@ -9,7 +9,7 @@
 
 </p>
 
-[![Cheon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cheon&layout=compact&langs_count=8&range=all_time&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cheon&layout=compact&langs_count=5&range=all_time&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647)](https://github.com/anuraghazra/github-readme-stats)
  
 ## ⚡Dev Stack⚡
  <div>

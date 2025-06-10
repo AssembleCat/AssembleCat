@@ -1,6 +1,6 @@
 <div align="center">
  
-## Hello world! :wave:
+## :wave:
 
 </div>
 

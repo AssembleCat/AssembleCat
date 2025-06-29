@@ -13,12 +13,12 @@
  * 여러 VAN사(결제대행사)와의 연동을 위해 통합 결제 모듈을 개발했습니다.
  * 포인트 적립, 사용, 관리 시스템을 개발했습니다.
  
- **테너시티즈 | 2023.09 ~ 2024.08 | 백엔드 개발**
+ **테너시티즈 | 2023.09 ~ 2024.08 | 백엔드**
  * 두 번째 개발자로 합류해, IT 서비스의 전반(인프라, 웹사이트, 백오피스)을 직접 만들고 운영했습니다.
  * “문제는 많아도 해결에 집중하는 게 먼저”라는 팀 특유의 빠른 의사결정 문화를 몸소 경험했습니다.
  * 메타버스부터 웹까지, 서비스들이 한몸처럼 움직이도록 유저 보안 통합 시스템을 구축했습니다.
  
- **[IMTSoft](http://www.imtsoft.co.kr/) | 2021.08 - 2023.08 | 소프트웨어 연구소**  
+ **[IMTSoft](http://www.imtsoft.co.kr/) | 2021.08 - 2023.08 | 산업기능요원**  
  * Spring & Java, React & JavaScript 사용에 익숙해질 수 있는 시간이었습니다.
  * 레거시 청산과 ASP/KIOSK 유지보수 등 다양한 일을 동시에 진행하는 능력이 급속 성장했습니다.
  * KIOSK 현장 오류가 많아서 자가진단 프로그램을 만들어 KIOSK가 스스로 상태를 말하게 했습니다.
@@ -26,22 +26,22 @@
  
  ## Project
  
- **[Prismedia](https://github.com/Prismedia) | 2025.03- 2025.06 | 개발, 기획**  
+ **[Prismedia](https://github.com/Prismedia) | 2025.03- 2025.06**  
  * 캡스톤 프로젝트로, 언론사별 정치적 편향성을 분석하고, 균형 잡힌 기사 추천을 제공하는 웹 서비스를 개발했습니다.
  * 단순한 기사 큐레이션이 아닌, 사용자가 편향을 인지하고 스스로 판단할 수 있도록 돕는 서비스를 목표로 했습니다.
  * [Ground News](https://ground.news/)를 모티브 삼아 언론의 사회적 영향력에 대한 문제의식에서 출발한, 기획과 개발이 함께 녹아든 프로젝트
  
- **[Analyze-the-spire](https://github.com/AssembleCat/analyze-the-spire) | 2025.01 |**  
+ **[Analyze the Spire](https://github.com/AssembleCat/analyze-the-spire) | 2025.01**  
  * [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) 카드게임의 약 3,200만건의 플레이 로그를 수집, 딥러닝 모델을 통해 분석하여 어떤 카드가 좋은지 알아냈습니다.
  * 2.2 패치버전 이후 기준으로 ['곡예'](https://slay-the-spire.fandom.com/wiki/Acrobatics)는 사일런트에게 가장 가치가 높은 카드였습니다.
  * 좋아하는 게임을 '데이터로 다시 플레이'한 프로젝트로, 유저 데이터 기반 분석의 재미를 알 수 있었습니다.
  
  ## Certification
  
- **SQL Developer | 2025.06 |**
+ **SQL Developer | 2025.06**
  * SQL을 감으로만 작성해서 개념과 규칙을 다시 공부했습니다.
  
- **AWS Certified Solutions Architect - Associate | 2024. 07 |**
+ **AWS Certified Solutions Architect - Associate | 2024. 07**
  * 백엔드를 주로 개발하며 인프라에 대한 이해가 부족한걸 체감해서 도전했습니다.
  * 모든 기능에 능수능란하지 않지만, 서비스를 운영할때 어떤 인프라적 고민이 필요한지 감각이 생겼습니다.
  

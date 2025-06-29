@@ -4,7 +4,7 @@
  * 새로운 기술과 인프라는 재밌지만, 데드라인이나 배포 직전에 적용하진 않으려 합니다.
  * 기술 문서는 쓰는 것보다 읽는 쪽이 낫지만, 팀에 없으면 결국 제가 씁니다.
  * 학교를 다니며 일하고 있습니다. 가끔 힘들지만 역시 개발은 기한이 걸려있어야지 효율적입니다.
- * 최근 [Spring AI](https://github.com/spring-projects/spring-ai) 정식버전 나온것이 기쁩니다. Java/Kotlin도 AI 연동할 수 있습니다!
+ * 최근 [Spring AI](https://github.com/spring-projects/spring-ai) 정식버전 나온것이 기쁩니다. Java/Kotlin도 AI 할 수 있다!
  
  ## Work
  
@@ -28,12 +28,12 @@
  
  **[Prismedia](https://github.com/Prismedia) | 2025.03- 2025.06**  
  * 캡스톤 프로젝트로, 언론사별 정치적 편향성을 분석하고, 균형 잡힌 기사 추천을 제공하는 웹 서비스를 개발했습니다.
- * 단순한 기사 큐레이션이 아닌, 사용자가 편향을 인지하고 스스로 판단할 수 있도록 돕는 서비스를 목표로 했습니다.
- * [Ground News](https://ground.news/)를 모티브 삼아 언론의 사회적 영향력에 대한 문제의식에서 출발한, 기획과 개발이 함께 녹아든 프로젝트
+ * 단순 기사 큐레이션이 아닌, 사용자가 편향을 인지하고 스스로 판단할 수 있도록 돕는 서비스를 목표로 했습니다.
+ * [Ground News](https://ground.news/)를 모티브 삼아 언론의 사회적 영향력에 대한 문제의식에서 출발한, 기획과 개발이 함께 녹아든 프로젝트였습니다.
  
  **[Analyze the Spire](https://github.com/AssembleCat/analyze-the-spire) | 2025.01**  
  * [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) 카드게임의 약 3,200만건의 플레이 로그를 수집, 딥러닝 모델을 통해 분석하여 어떤 카드가 좋은지 알아냈습니다.
- * 2.2 패치버전 이후 기준으로 ['곡예'](https://slay-the-spire.fandom.com/wiki/Acrobatics)는 사일런트에게 가장 가치가 높은 카드였습니다.
+ * 2.2 패치 이후 기준으로 ['곡예'](https://slay-the-spire.fandom.com/wiki/Acrobatics)는 사일런트에게 가장 가치가 높은 카드였습니다.
  * 좋아하는 게임을 '데이터로 다시 플레이'한 프로젝트로, 유저 데이터 기반 분석의 재미를 알 수 있었습니다.
  
  ## Certification

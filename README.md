@@ -10,4 +10,6 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=assemblecat&theme=default_repocard&hide_border=true)
 
+![snake animation](https://raw.githubusercontent.com/assemblecat/assemblecat/output/dist/github-contribution-grid-snake.svg)
+
 </div>

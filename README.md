@@ -9,7 +9,7 @@
 
   </div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=assemblecat&theme=default_repocard&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=assemblecat&theme=transparent&hide_border=true)
 
 <img src="https://raw.githubusercontent.com/assemblecat/assemblecat/output/github-contribution-grid-snake.svg" alt="snake animation" width="60%"/>
 

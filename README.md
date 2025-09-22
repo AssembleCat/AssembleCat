@@ -2,8 +2,8 @@
 
   <div align="center">
 
-  [![HITS](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FAssembleCat?color=blue&label=HITS&size=small)](https://myhits.vercel.app) 
-  [![CV](https://img.shields.io/badge/CV-Here-blue?logo=Read%20the%20Docs&logoColor=white)](https://assemblecat.github.io/resume-nextjs/)
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FAssembleCat?color=blue&label=hits&size=small)](https://myhits.vercel.app) 
+  [![CV](https://img.shields.io/badge/CV-click%20me!-blue?logo=Read%20the%20Docs&logoColor=white)](https://assemblecat.github.io/resume-nextjs/)
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cheonshin99)](https://solved.ac/cheonshin99)
   [![wakatime](https://wakatime.com/badge/user/5bbff8ea-b399-473c-ba94-aadf52c3461d.svg)](https://wakatime.com/@5bbff8ea-b399-473c-ba94-aadf52c3461d)
 
